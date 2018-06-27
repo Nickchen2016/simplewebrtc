@@ -1,0 +1,24 @@
+{
+  "name": "simplewebrtc-messenger",
+  "version": "1.0.0",
+  "description": "A tutorial on building a WebRTC video chat app using SimpleWebRTC.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nickchen2016/simplewebrtc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nickchen2016/simplewebrtc/issues"
+  },
+  "homepage": "https://github.com/Nickchen2016/simplewebrtc#readme",
+  "dependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
